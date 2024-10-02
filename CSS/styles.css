@@ -60,4 +60,14 @@ main div h4 {
     color: rgb(255, 94, 0);
     text-align: left;
     font-weight: normal;
+    border-left: 2px solid rgba(255, 255, 0, 0.521) ;
+    padding-left: 10px;
+    margin-bottom: 80px;
+}
+.ingredienti  {
+    text-align: left;
+    font-weight: normal;
+}
+div .ingredienti {
+    padding-top: 40;
 }
