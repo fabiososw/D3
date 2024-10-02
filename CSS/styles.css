@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: 'frank-ruhl-libre', georgia, serif
+
+}
+main {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+
+nav {
+    padding-bottom: 400;
+}
+
+nav h4 {
+    font-family: 'frank-ruhl-libre', georgia, serif;
+    color: rgb(0 77 77);
+    display: block;
+    margin-bottom: 30;
+    font-weight: normal;
+    text-align: center;
+    background-color: #ffff001f;
+    border-top: 2px solid yellow;
+    padding-bottom: 15px;
+    margin-bottom: 25;
+}
+nav span {
+    font-weight: bold;
+}
+article h2 {
+    font-size: 48px;
+    text-align: center;
+    font-weight: bolder;
+    color: 34 34 34;
+    margin-top: 10;
+}
+h2 {
+    font-family: 'frank-ruhl-libre', georgia, serif
+}
+p {
+    text-align: center;
+}
+img {
+    border-radius: 2%;
+    box-shadow: 2px 2px 4px #00000050;
+}
