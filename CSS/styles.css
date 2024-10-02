@@ -1,3 +1,7 @@
+header {
+    padding-bottom: 0px;
+    padding-top: 10px;
+}
 body{
     margin: 0;
     font-family: 'frank-ruhl-libre', georgia, serif
@@ -13,10 +17,13 @@ header {
 }
 
 nav {
+    margin-top: 0;
+    padding-top: 0;
     padding-bottom: 400;
 }
 
 nav h4 {
+    margin-top: 5px;
     padding-top: 15px;
     vertical-align: middle;
     font-family: 'frank-ruhl-libre', georgia, serif;
